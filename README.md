@@ -74,6 +74,7 @@ La ruta Cart renderiza el componente Cart, donde se muestra el listado de los pr
 
 # Video demostrativo
 
+https://github.com/jmzacarias/proyectofinalReactJS2022/blob/main/public/React_App_-_Firefox_Developer_Edition_2022-03-29_14-32-13_AdobeCreativeCloudExpress(2).gif
 
 # Getting Started with Create React App
 
